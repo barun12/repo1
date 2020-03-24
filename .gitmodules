@@ -1,0 +1,4 @@
+[submodule "repo2"]
+	path = repo2
+	url = git@github.com:barun12/repo2.git
+	branch = master
